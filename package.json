@@ -14,12 +14,12 @@
     },
     "bin" : { "flowdock-notifier" : "bin/main.js" },
     "license" : "GNU AFFERO GENERAL PUBLIC LICENSE",
-    "repository" : { 
+    "repository" : {
         "type" : "git", 
-	"url" : "https://github.com/Mashape/Mashape4-proxy"
+		"url" : "https://github.com/thefosk/flowdock-desktop-notifier"
     },
     "bugs" : {
-	"url" : "https://github.com/Mashape/Mashape4-proxy/issues",
+	"url" : "https://github.com/thefosk/flowdock-desktop-notifier/issues",
 	"email" : "marco@mashape.com"
     }
 }
