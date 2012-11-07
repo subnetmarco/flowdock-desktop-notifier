@@ -1,6 +1,6 @@
 {
     "name": "flowdock-desktop-notifier",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A flowdock desktop notifier",
     "author": "Marco Palladino <marco@mashape.com>",
     "homepage":"http://twitter.com/thefosk",

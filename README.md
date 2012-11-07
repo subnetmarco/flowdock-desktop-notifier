@@ -4,13 +4,15 @@ A simple [Flowdock](http://flowdock.com) desktop notifier for Mac OSX.
 
 # Dependencies
 
-Execute from your Terminal ([Ruby](http://www.ruby-lang.org/) is **required**):
+* Install [node.js](http://nodejs.org/)
+
+* Install [terminal-notifier](https://github.com/alloy/terminal-notifier):
 
 ```
 sudo gem install terminal-notifier
 ```
 
-## Without Ruby
+## Install terminal-notifier without Ruby
 
 For those without ruby, you can download a [pre-built binary from GitHub](https://github.com/alloy/terminal-notifier/downloads) but to run terminal-notifier you have to point it to the binary inside the app bundle as so:
 
