@@ -1,0 +1,26 @@
+{
+    "name": "flowdock-desktop-notifier",
+    "version": "0.0.1",
+    "description": "A flowdock desktop notifier",
+    "author": "Marco Palladino <marco@mashape.com>",
+    "homepage":"http://twitter.com/thefosk",
+    "dependencies": {
+        "optimist": "0.3.4",
+        "flowdock": "0.4.1"
+	},
+    "private": false,
+    "engines": {
+        "node": ">= 0.8.11"
+    },
+    "bin" : { "flowdock-notifier" : "bin/main.js" },
+    "license" : "GNU AFFERO GENERAL PUBLIC LICENSE",
+    "repository" : { 
+        "type" : "git", 
+	"url" : "https://github.com/Mashape/Mashape4-proxy"
+    },
+    "bugs" : {
+	"url" : "https://github.com/Mashape/Mashape4-proxy/issues",
+	"email" : "marco@mashape.com"
+    }
+}
+
