@@ -37,7 +37,7 @@ sudo npm install flowdock-desktop-notifier -g
 Simply execute:
 
 ```
-$ flowdock-desktop-notifier -u [USERNAME] -p [PASSWORD] -c [COMPANY] -f [FLOW]
+$ flowdock-notifier -u [USERNAME] -p [PASSWORD] -c [COMPANY] -f [FLOW]
 ```
 
 With your [Flowdock](http://flowdock.com) username, password, company subdomain and flow name.
